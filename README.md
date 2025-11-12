@@ -1,2 +1,12 @@
 # Rudra67
-Welcome to Github
+
+Welcome to GitHub
+
+
+
+Author- Rudra Narayan Panigrahi
+
+This file was edited from my local computer.
+
+
+
